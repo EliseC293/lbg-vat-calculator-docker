@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "EliseC293/vatcal"
+ registry = "elisec293/vatcal"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
